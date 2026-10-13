@@ -6,7 +6,7 @@ Data Structure and Graph Performance Analyzer (Java Console Application)
 |--------------|------------|------------------------|-------------------------|
 | R.F. Reema | 23da2-0877 | Array & Searching | Implemented Array operations, Linear Search, Binary Search |
 | A.M. Fathima Samha | 23da2-1055 | Stack & Queue | Implemented Stack and Queue structures & operations |
-| N. Farjah Afnan | 23da2-0877 | Linked List | Implemented Linked List operations (Insert, Delete, Search) |
+| N. Farjah Afnan | 23da2-1116 | Linked List | Implemented Linked List operations (Insert, Delete, Search) |
 | K.H. Sewwandi Nisansala | 23da2-0623 | Graph & Integration (Leader) | Implemented Graph (BFS/DFS), Main Menu, Integration & Performance Comparison |
 
 ## System Features
